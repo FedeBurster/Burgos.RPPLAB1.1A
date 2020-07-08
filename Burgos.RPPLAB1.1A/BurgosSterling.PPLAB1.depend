@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1594169765 source:c:\users\federico\desktop\burgossterling.pplab1\color.c
+	<stdio.h>
+	<stdlib.h>
+	"burgos.h"
+
+1593948351 source:c:\users\federico\desktop\burgossterling.pplab1\fecha.c
+
+1594219471 source:c:\users\federico\desktop\burgossterling.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"burgos.h"
+
+1594167519 source:c:\users\federico\desktop\burgossterling.pplab1\mascota.c
+	"burgos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1594166748 source:c:\users\federico\desktop\burgossterling.pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"burgos.h"
+
+1594166789 source:c:\users\federico\desktop\burgossterling.pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"burgos.h"
+
+1594219461 source:c:\users\federico\desktop\burgossterling.pplab1\burgos.c
+	"burgos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1594219441 c:\users\federico\desktop\burgossterling.pplab1\burgos.h
+	"tipo.h"
+	"color.h"
+	"mascota.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+	"informes.h"
+	"cliente.h"
+	"pagos.h"
+
+1593964619 c:\users\federico\desktop\burgossterling.pplab1\tipo.h
+
+1593965143 c:\users\federico\desktop\burgossterling.pplab1\color.h
+
+1594164940 c:\users\federico\desktop\burgossterling.pplab1\mascota.h
+	"cliente.h"
+	"burgos.h"
+
+1593966942 c:\users\federico\desktop\burgossterling.pplab1\servicio.h
+
+1594217277 c:\users\federico\desktop\burgossterling.pplab1\trabajo.h
+	"fecha.h"
+	"pagos.h"
+
+1593950187 c:\users\federico\desktop\burgossterling.pplab1\fecha.h
+
+1594217395 source:c:\users\federico\desktop\burgossterling.pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"burgos.h"
+
+1594219715 source:c:\users\federico\desktop\burgossterling.pplab1\informes.c
+	"burgos.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1594217706 c:\users\federico\desktop\burgossterling.pplab1\informes.h
+	"pagos.h"
+
+1594169797 source:c:\users\federico\desktop\burgossterling.pplab1\cliente.c
+	"burgos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1594165269 c:\users\federico\desktop\burgossterling.pplab1\cliente.h
+
+1594211399 c:\users\federico\desktop\burgossterling.pplab1\pagos.h
+
+1594211190 source:c:\users\federico\desktop\burgossterling.pplab1\pagos.c
+
